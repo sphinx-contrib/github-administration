@@ -5,8 +5,7 @@ This repository is used for managing the sphinx-contrib GitHub organization, inc
 ## How do I add a new repo to sphinx-contrib?
 
 1. Create the repository elsewhere, such as under your personal account.
-2. File a ticket [here](https://github.com/sphinx-contrib/github-administration/issues) asking to join the organization.
-3. Accept the invitation to join.
-4. An organization admin will request administrative rights on the repository being moved. This is required in order to move the repository. See [the GitHub documentation on repository transfer](https://help.github.com/en/github/administering-a-repository/transferring-a-repository) for details.
-5. After permission is granted, an admin will move the repository into the org.
-6. After it is moved, an admin will rename the repository to remove prefixes like `sphinx`, `sphinx-contrib`, and `sphinxcontrib`. Updating documentation in the repository is left up to the owner.
+2. File a ticket [here](https://github.com/sphinx-contrib/github-administration/issues) asking to join the organization, including a link to the repository being added.
+3. Accept the invitation to join the organization.
+4. Use the GitHub UI to move the repository into the organization (you will need administrator/owner rights on the repository to do this). See [the GitHub documentation on repository transfer](https://help.github.com/en/github/administering-a-repository/transferring-a-repository) for details.
+5. After it is moved, rename the repository to remove prefixes like `sphinx`, `sphinx-contrib`, and `sphinxcontrib`. Don't forget to update the documentation in the repository, too!
