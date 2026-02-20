@@ -22,3 +22,4 @@ This is optional, and the main advantage is that it allows for the appointment o
 2. Add the `sphinx-contrib` *user* to the project(s) in question. This is a meta account managed by @stephenfin that allows us to actually add a project, in the absence of a transfer request mechanism.
 
 Once these steps are done, you will be added as a member to the `sphinx-contrib` *organization*, and project will be moved to this organization.
+https://github.com/sphinx-contrib/github-administration/issues/40
